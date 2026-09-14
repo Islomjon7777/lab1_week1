@@ -1,0 +1,3 @@
+name: Islomjon
+surname: Sheraliyev
+id: 250200
